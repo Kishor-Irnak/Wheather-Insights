@@ -1,0 +1,5 @@
+{
+  "name": "Weather Insight",
+  "description": "A professional weather forecasting application with live location and search features.",
+  "requestFramePermissions": ["geolocation"]
+}
